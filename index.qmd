@@ -16,7 +16,7 @@ subtitle: "Let's clean, document and revisit older code and data, together!"
 <!-- ### [Some things you can do to participate:]{style="color: #5a7a2b;"} -->
 ### [Some things you can do to participate:]{style="color: #ec5e2a;"}
 
-
+<div style=" columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 - Add comments to old code or code in progress
 - Write a better README
 - Archive your code in long-term repository
@@ -33,6 +33,8 @@ subtitle: "Let's clean, document and revisit older code and data, together!"
 - Volunteer to review for the Journal of Open Source Software
 - Browse critical research on software development practices
 - Donate to FOSS projects
+
+</div>
 
 ::: {.maintext}
 Brought to you by the Special Interest Group for [**Scientific Scripting Languages in Archaeology**](https://sslarch.github.io/)
